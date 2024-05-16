@@ -1,0 +1,11 @@
+{
+	label="Coucou",
+	tooltip="block-5,39",
+	lightlevel=8,
+	shapes={
+		{0, 0, 15, 16, 16, 16, texture="sandstone_normal"},
+		{12, 16, 14, 16, 12, 15, texture="sponge"},
+		{8, 12, 14, 12, 8, 15, texture="wool_colored_white"},
+		{12, 12, 14, 16, 8, 15, texture="wool_colored_white"},
+	}
+}

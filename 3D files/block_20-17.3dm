@@ -1,0 +1,15 @@
+{
+	label="Coucou",
+	tooltip="block-20,17",
+	lightlevel=8,
+	shapes={
+		{0, 0, 15, 16, 16, 16, texture="hardened_clay_stained_black"},
+		{8, 16, 14, 12, 12, 15, texture="hardened_clay_stained_green"},
+		{12, 16, 14, 16, 12, 15, texture="sponge"},
+		{4, 12, 14, 8, 8, 15, texture="wool_colored_black"},
+		{8, 12, 14, 12, 8, 15, texture="hardened_clay_stained_lime"},
+		{12, 12, 14, 16, 8, 15, texture="sponge"},
+		{8, 8, 14, 12, 4, 15, texture="sponge_wet"},
+		{12, 8, 14, 16, 4, 15, texture="sponge"},
+	}
+}

@@ -1,0 +1,8 @@
+{
+	label="Coucou",
+	tooltip="block-11,24",
+	lightlevel=8,
+	shapes={
+		{0, 0, 15, 16, 16, 16, texture="stone_granite_smooth"},
+	}
+}

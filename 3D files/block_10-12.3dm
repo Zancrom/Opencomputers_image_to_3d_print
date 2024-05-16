@@ -1,0 +1,14 @@
+{
+	label="Coucou",
+	tooltip="block-10,12",
+	lightlevel=8,
+	shapes={
+		{0, 0, 15, 16, 16, 16, texture="stone_granite_smooth"},
+		{0, 16, 14, 8, 8, 15, texture="hardened_clay_stained_brown"},
+		{8, 16, 14, 12, 12, 15, texture="hardened_clay_stained_brown"},
+		{12, 16, 14, 16, 12, 15, texture="hardened_clay_stained_brown"},
+		{8, 12, 14, 12, 8, 15, texture="dirt"},
+		{0, 8, 14, 4, 4, 15, texture="wool_colored_brown"},
+		{4, 8, 14, 8, 4, 15, texture="hardened_clay_stained_silver"},
+	}
+}

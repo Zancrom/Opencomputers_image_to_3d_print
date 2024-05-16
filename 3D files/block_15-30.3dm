@@ -1,0 +1,18 @@
+{
+	label="Coucou",
+	tooltip="block-15,30",
+	lightlevel=8,
+	shapes={
+		{0, 0, 15, 16, 16, 16, texture="sandstone_normal"},
+		{0, 16, 14, 4, 12, 15, texture="wool_colored_yellow"},
+		{4, 16, 14, 8, 12, 15, texture="wool_colored_yellow"},
+		{12, 16, 14, 16, 12, 15, texture="hardened_clay_stained_light_blue"},
+		{0, 12, 14, 4, 8, 15, texture="sponge"},
+		{4, 12, 14, 8, 8, 15, texture="sponge"},
+		{12, 12, 14, 16, 8, 15, texture="prismarine_bricks"},
+		{8, 8, 14, 12, 4, 15, texture="hardened_clay_stained_white"},
+		{12, 8, 14, 16, 4, 15, texture="prismarine_bricks"},
+		{8, 4, 14, 12, 0, 15, texture="wool_colored_silver"},
+		{12, 4, 14, 16, 0, 15, texture="prismarine_bricks"},
+	}
+}

@@ -1,0 +1,9 @@
+{
+	label="Coucou",
+	tooltip="block-11,41",
+	lightlevel=8,
+	shapes={
+		{0, 0, 15, 16, 16, 16, texture="wool_colored_black"},
+		{12, 4, 14, 16, 0, 15, texture="hardened_clay_stained_black"},
+	}
+}
