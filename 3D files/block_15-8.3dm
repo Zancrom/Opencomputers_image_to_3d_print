@@ -4,7 +4,7 @@
 	lightlevel=8,
 	shapes={
 		{0, 0, 15, 16, 16, 16, texture="wool_colored_silver"},
-		{0, 16, 14, 4, 12, 15, texture="hardened_clay_stained_grey"},
+		{0, 16, 14, 4, 12, 15, texture="hardened_clay_stained_gray"},
 		{4, 16, 14, 8, 12, 15, texture="wool_colored_black"},
 		{8, 16, 14, 12, 12, 15, texture="hardened_clay_stained_black"},
 		{12, 16, 14, 16, 12, 15, texture="dirt"},

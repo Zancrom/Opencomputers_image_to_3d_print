@@ -3,7 +3,7 @@
 	tooltip="block-15,13",
 	lightlevel=8,
 	shapes={
-		{0, 0, 15, 16, 16, 16, texture="hardened_clay_stained_grey"},
+		{0, 0, 15, 16, 16, 16, texture="hardened_clay_stained_gray"},
 		{4, 16, 14, 8, 12, 15, texture="hardened_clay_stained_blue"},
 		{12, 16, 14, 16, 12, 15, texture="hardened_clay_stained_blue"},
 		{8, 8, 14, 12, 4, 15, texture="hardened_clay_stained_blue"},

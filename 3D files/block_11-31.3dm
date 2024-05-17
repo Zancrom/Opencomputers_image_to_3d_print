@@ -8,6 +8,6 @@
 		{8, 12, 14, 12, 8, 15, texture="hardened_clay_stained_blue"},
 		{12, 12, 14, 16, 8, 15, texture="hardened_clay_stained_black"},
 		{8, 8, 14, 12, 4, 15, texture="hardened_clay_stained_blue"},
-		{12, 8, 14, 16, 4, 15, texture="hardened_clay_stained_grey"},
+		{12, 8, 14, 16, 4, 15, texture="hardened_clay_stained_gray"},
 	}
 }

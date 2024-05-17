@@ -3,16 +3,16 @@
 	tooltip="block-3,35",
 	lightlevel=8,
 	shapes={
-		{0, 0, 15, 16, 16, 16, texture="hardened_clay_stained_grey"},
-		{0, 16, 14, 4, 12, 15, texture="wool_colored_grey"},
-		{0, 12, 14, 4, 8, 15, texture="wool_colored_grey"},
+		{0, 0, 15, 16, 16, 16, texture="hardened_clay_stained_gray"},
+		{0, 16, 14, 4, 12, 15, texture="wool_colored_gray"},
+		{0, 12, 14, 4, 8, 15, texture="wool_colored_gray"},
 		{8, 12, 14, 12, 8, 15, texture="hardened_clay_stained_black"},
 		{12, 12, 14, 16, 8, 15, texture="hardened_clay_stained_black"},
 		{0, 8, 14, 4, 4, 15, texture="hardened_clay_stained_silver"},
-		{4, 8, 14, 8, 4, 15, texture="wool_colored_grey"},
+		{4, 8, 14, 8, 4, 15, texture="wool_colored_gray"},
 		{0, 4, 14, 4, 0, 15, texture="hardened_clay_stained_white"},
 		{4, 4, 14, 8, 0, 15, texture="hardened_clay_stained_silver"},
 		{8, 4, 14, 12, 0, 15, texture="dirt"},
-		{12, 4, 14, 16, 0, 15, texture="wool_colored_grey"},
+		{12, 4, 14, 16, 0, 15, texture="wool_colored_gray"},
 	}
 }

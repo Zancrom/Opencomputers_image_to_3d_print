@@ -11,10 +11,10 @@
 		{4, 12, 14, 8, 8, 15, texture="hardened_clay_stained_silver"},
 		{12, 12, 14, 16, 8, 15, texture="hardened_clay_stained_cyan"},
 		{0, 8, 14, 4, 4, 15, texture="hardened_clay_stained_silver"},
-		{4, 8, 14, 8, 4, 15, texture="hardened_clay_stained_grey"},
+		{4, 8, 14, 8, 4, 15, texture="hardened_clay_stained_gray"},
 		{12, 8, 14, 16, 4, 15, texture="hardened_clay_stained_blue"},
-		{0, 4, 14, 4, 0, 15, texture="hardened_clay_stained_grey"},
-		{4, 4, 14, 8, 0, 15, texture="hardened_clay_stained_grey"},
+		{0, 4, 14, 4, 0, 15, texture="hardened_clay_stained_gray"},
+		{4, 4, 14, 8, 0, 15, texture="hardened_clay_stained_gray"},
 		{12, 4, 14, 16, 0, 15, texture="hardened_clay_stained_cyan"},
 	}
 }

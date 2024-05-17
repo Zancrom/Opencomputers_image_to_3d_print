@@ -8,7 +8,7 @@
 		{4, 16, 14, 8, 12, 15, texture="hardened_clay_stained_blue"},
 		{8, 16, 14, 12, 12, 15, texture="prismarine_bricks"},
 		{12, 16, 14, 16, 12, 15, texture="prismarine_bricks"},
-		{0, 12, 14, 4, 8, 15, texture="hardened_clay_stained_grey"},
+		{0, 12, 14, 4, 8, 15, texture="hardened_clay_stained_gray"},
 		{8, 12, 14, 12, 8, 15, texture="hardened_clay_stained_blue"},
 		{12, 12, 14, 16, 8, 15, texture="hardened_clay_stained_light_blue"},
 		{4, 8, 14, 8, 4, 15, texture="hardened_clay_stained_black"},

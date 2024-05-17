@@ -11,7 +11,7 @@
 		{0, 12, 14, 4, 8, 15, texture="hardened_clay_stained_brown"},
 		{4, 12, 14, 8, 8, 15, texture="hardened_clay_stained_brown"},
 		{12, 12, 14, 16, 8, 15, texture="stone_granite_smooth"},
-		{0, 8, 14, 4, 4, 15, texture="wool_colored_grey"},
+		{0, 8, 14, 4, 4, 15, texture="wool_colored_gray"},
 		{12, 8, 14, 16, 4, 15, texture="stone_granite_smooth"},
 		{12, 4, 14, 16, 0, 15, texture="stone_granite_smooth"},
 	}

@@ -6,7 +6,7 @@
 		{0, 0, 15, 16, 16, 16, texture="stone_granite_smooth"},
 		{0, 8, 14, 4, 4, 15, texture="hardened_clay_stained_brown"},
 		{4, 8, 14, 8, 4, 15, texture="hardened_clay_stained_silver"},
-		{0, 4, 14, 4, 0, 15, texture="hardened_clay_stained_grey"},
+		{0, 4, 14, 4, 0, 15, texture="hardened_clay_stained_gray"},
 		{4, 4, 14, 8, 0, 15, texture="hardened_clay_stained_black"},
 		{8, 4, 14, 12, 0, 15, texture="hardened_clay_stained_brown"},
 		{12, 4, 14, 16, 0, 15, texture="hardened_clay_stained_brown"},
