@@ -5,6 +5,9 @@
 	shapes={
 		{0, 0, 15, 16, 16, 16, texture="sponge"},
 		{8, 12, 14, 16, 4, 15, texture="sandstone_normal"},
+		{0, 16, 14, 4, 12, 15, texture="sandstone_normal"},
 		{12, 16, 14, 16, 12, 15, texture="sandstone_normal"},
+		{4, 12, 14, 8, 8, 15, texture="sandstone_normal"},
+		{12, 8, 14, 16, 4, 15, texture="wool_colored_white"},
 	}
 }

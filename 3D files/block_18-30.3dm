@@ -5,5 +5,9 @@
 	shapes={
 		{0, 0, 15, 16, 16, 16, texture="sponge"},
 		{0, 12, 14, 8, 4, 15, texture="sandstone_normal"},
+		{12, 16, 14, 16, 12, 15, texture="hardened_clay_stained_light_blue"},
+		{12, 12, 14, 16, 8, 15, texture="hardened_clay_stained_light_blue"},
+		{12, 8, 14, 16, 4, 15, texture="hardened_clay_stained_light_blue"},
+		{12, 4, 14, 16, 0, 15, texture="hardened_clay_stained_light_blue"},
 	}
 }
